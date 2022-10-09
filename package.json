@@ -64,6 +64,6 @@
     "preset": "@vue/cli-plugin-unit-jest/presets/javascript-and-babel"
   },
   "publishConfig": {
-    "registry": "http://localhost:8081/repository/npm-private/"
+    "registry": "http://172.17.0.2:8081/repository/npm-private/"
   }
 }
