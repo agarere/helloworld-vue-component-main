@@ -1,7 +1,7 @@
 {
   "name": "@agarere/helloworld",
-  "version": "0.2.02",
-  "main": "./dist/helloworld.common.js",
+  "version": "0.2.21",
+  "main": "./dist/HelloWorld.js",
   "private": false,
   "author": "Ediz Agarer",
   "scripts": {
