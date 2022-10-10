@@ -1,6 +1,6 @@
 {
   "name": "@agarere/helloworld",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "main": "./dist/HelloWorld.js",
   "private": false,
   "author": "Ediz Agarer",
@@ -9,6 +9,7 @@
   },
   "files": [
     "dist/*",
+    "src/*",
     "*.js",
     "*.css"
   ],
