@@ -1,6 +1,6 @@
 {
   "name": "@agarere/helloworld",
-  "version": "0.2.0",
+  "version": "0.2.01",
   "main": "./dist/helloworld.common.js",
   "private": false,
   "author": "Ediz Agarer",
@@ -8,7 +8,9 @@
     "build": "webpack --config config/webpack.config.js"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "*.js",
+    "*.css"
   ],
   "dependencies": {
     "@babel/eslint-parser": "^7.19.1",
